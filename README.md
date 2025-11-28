@@ -53,8 +53,3 @@ By the end of this module, I was able to:
 
 ---
 
-## Screenshots & Artifacts
-*(Include screenshots of Splunk dashboards, port scan logs, OS Forensics UI, and image mount paths)*
-
----
-
